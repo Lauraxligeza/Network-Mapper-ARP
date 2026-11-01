@@ -60,7 +60,3 @@ The scanner works with IPv4 and ARP on local networks. It cannot guarantee that 
 ARP scanning requires appropriate permissions on Linux.
 
 Only use it on networks you own or have permission to scan.
-
-## Next
-
-Build a separate ICMP scanner and compare the results with ARP discovery.
