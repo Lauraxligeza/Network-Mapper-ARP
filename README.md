@@ -2,7 +2,7 @@
 
 A Python tool that scans a local network using ARP (Address Resolution Protocol) and displays the IP and MAC addresses of responding devices.
 
-I wanted to see how ARP works in practice, rather than just reading about the protocol, so I built a scanner that discovers local network interfaces, calculates their subnets and sends ARP requests to identify devices.
+I wanted to see how ARP works in practice, so I built a scanner that discovers local network interfaces, calculates their subnets and sends ARP requests to identify devices.
 
 ## What it does
 
